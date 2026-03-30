@@ -1,4 +1,4 @@
-#AI-WEBSITE-COPY-GENERATOR
+<strong><b>AI-WEBSITE-COPY-GENERATOR<strong><b>
 
 This is the ai copy generator i created using prompting
 AI-Powered Gym Assistant
