@@ -1,4 +1,4 @@
-# AI-website-copy-generator
+# FUTURE_PE_01
 this is the ai copy generator i created using prompting
 AI-Powered Gym Assistant
 
